@@ -1,0 +1,214 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+}
+.container0 img{
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+.nav-link{
+    color: black;
+    font-weight: 600;
+    font-size: large;
+}
+.navbar-brand{
+    color: rgb(39, 17, 17);
+    font-weight: 800;
+    font-size: 30px;
+    margin-left: 30px;
+}
+.navbar-nav{
+    margin-left: 750px;
+    
+}
+.search{
+    height: 40px;
+    width: 90%;
+    border-radius: 60px;
+    outline: none;
+    border: 2px solid red;
+    padding:  3px;
+}
+.btn0{
+    height: 40px;
+    width: 40%;
+    border-radius: 60px;
+    outline: none;
+    border: none;
+    background-color: aquamarine;
+}
+.container0{
+    height: 35px;
+    background-color: black;
+}
+.container0 p{
+    color: aliceblue;
+    margin-top: 5px;
+}
+.container0 a{
+    color: aliceblue;
+    text-decoration: none;
+    margin-top: 5px;
+}
+.container0 a:hover{
+    color: aquamarine;
+}
+.carousel-caption{
+    position: relative;
+   
+}
+.carousel-caption h1{
+    color: black;
+    font-weight: 400;
+
+}
+.carousel-caption p{
+    color: black;
+    margin-top: -650px;
+}
+.btn0{
+    height: 45px;
+    width: 150px;
+    background-color: rgb(163, 255, 127);
+    outline: none;
+    border: tomato;
+}
+.btn0:hover{
+    
+    background-color: red;
+    transition: 1s;
+}
+.sub{
+    background-color: rgb(92, 76, 53);
+
+}
+.sub input{
+    height: 50px;
+    width: 50%;
+    color: black;
+    outline: none;
+    padding: 10px;
+    border: 2px solid;
+}
+.btn1{
+    height: 50px;
+    width: 50%;
+    background-color: rgb(163, 255, 127);
+    margin-left: -2px;
+}
+.fas{
+    font-size: 32px;
+}
+.collection span{
+    color: yellowgreen;
+    font-weight: 800;
+    font-size: 20px;
+    padding-left: 5px;
+}
+.collection input{
+    position: absolute;
+    height: 45px;
+    width: 110px;
+    background-color:  yellowgreen;
+    border-radius:  5px;
+    outline: none;
+    text-align: center;
+    top: 50%;
+    left: 30%;
+    opacity: 0;
+}
+.collection .card:hover input{
+    opacity: 1;
+    transition: 1s;
+    
+}
+.collection input:hover{
+    background-color: aqua;
+    transition: 1s;
+}
+.collection image{
+    width: 200px;
+}
+.para{
+    background-image: url('/images/background.jpg') ;
+    background-attachment: fixed;
+   width: 100%;
+    
+}
+.para h1{
+    font-size: 55px;
+    font-weight: 700;
+}
+.para p{
+    font-size: 22px;
+}
+.btn2{
+    height: 50px;
+    width: 110px;
+    background:transparent;
+    border :2px solid white;
+    color: white;
+    outline: none;
+    border-radius: 4px;
+
+}
+.btn3{
+    height: 50px;
+    width: 110px;
+    background: transparent;
+    border: 2px solid white;
+    background-color: yellowgreen;
+}
+.btn2:hover{
+    background-color: aqua;
+    transition: 1s;
+}
+.article a{
+    list-style: none;
+    color: black;
+    outline: none;
+}
+.article a:hover{
+    color: greenyellow;
+    transition: 0.5s;
+}
+.article p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.article span{
+    font-size: 15px;
+    color: greenyellow;
+}
+.article small{
+    margin-left: 20px;
+}
+.contact {
+    background-color: antiquewhite;
+
+}
+.contact input{
+    height: 50px;
+    width: 100%;
+    outline: none;
+    border: none;
+    color: gray;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: white;
+    
+}
+.contact .btn4{
+    height: 50px;
+    width: 110px;
+    background-color: rgb(136, 226, 109);
+    border: black;
+    border-radius: 20px;
+    margin-top: 5%;
+}
+.contact p{
+    margin-top: 2%;
+    color: rgb(24, 5, 5);
+}
